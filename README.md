@@ -1,4 +1,4 @@
-# goit-rdb-fp — фінальний проєкт
+# goit-rdb-fp - фінальний проєкт
 
 Робота з датасетом `infectious_cases` (СУБД PostgreSQL, схема `pandemic`).
 Весь SQL-код знаходиться у файлі [`final_project.sql`](final_project.sql).
